@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    background-color:lightgray;
+}
+#donate{
+    border-radius:15%;
+    list-style: none;
+    border-width:0;
+    background-color:lightgreen;
+    width: 250px;
+    height:100px;
+}
+#whigga{
+
+    border-radius:15%;
+    list-style: none;
+    border-width:0;
+    background-color:lightcoral;
+    width: 250px;
+    height:100px;
+}
+#eutoleklek{
+    border-radius:15px ;
+}
